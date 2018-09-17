@@ -9,3 +9,5 @@
 * InceptionV3
 * InceptionResNetV2
 * MobileNet
+
+### To use any of the above models, please edit conf.json with respective model name
